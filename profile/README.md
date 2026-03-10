@@ -47,7 +47,7 @@ Repository: blog-backend
 
 ---
 
-### Meme Telegram Bot
+### Meme Bot
 
 Telegram bot that aggregates memes from different sources and publishes them to a Telegram channel.
 Memes from the channel are also available in a dedicated section of the blog platform.
@@ -58,4 +58,4 @@ Tech stack:
 * cron
 * RSS
 
-Repository: meme-telegram-bot
+Repository: meme-bot
